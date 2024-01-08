@@ -1,0 +1,4 @@
+Libraries python 3.11
+Open-cv
+numpy
+face recognition
